@@ -1,4 +1,26 @@
 div {
     background-color: aqua;
     border: 1px solid black;
+    width: 250px;
+    display: inline;
 }
+
+.height {
+    height: 250px;
+}
+
+.fontColors {
+    color: white;
+}
+
+#green {
+    background-color: green;
+}
+
+#yellowGreen {
+    background-color: yellowgreen;
+}
+
+
+
+
