@@ -1,12 +1,12 @@
-div {
-    background-color: aqua;
-    border: 1px solid black;
-    width: 250px;
-    display: inline;
+#parent {
+    display: flex;
 }
 
 .height {
-    height: 250px;
+    height: 250px; 
+    background-color: aqua;
+    border: 1px solid black;
+    width: 250px;
 }
 
 .fontColors {
